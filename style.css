@@ -1,0 +1,115 @@
+
+
+
+#container {
+	padding: 10px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	line-height: 1.4em;
+	max-width: 75%;
+	margin: auto;
+}
+
+/******************
+ was trying to re-create logo in text and css
+
+	.my-logo-ek {
+	font-family: Verdana, Segoe, sans-serif;
+	font-weight: bold;
+	font-size: 5em;
+	color: #d43c17;
+}
+*********************/
+
+header {
+	position: relative;
+	width: 500px;
+	margin: auto;
+}
+
+#logo {
+	width: 90%;
+}
+
+#logo img {
+	float: left;
+}
+
+#logo h1 {
+display: inline-block;
+font-size: 1.4em;
+color: #6b6b6b;
+font-weight: normal;
+letter-spacing: 2px;
+float: right;
+margin-top: 14%;
+margin-left: 8px;
+}
+
+.contact ul {
+	list-style: none;
+	clear: both;
+	padding: 15px 0 30px 40px;
+}
+
+.contact ul li {
+	display: inline;
+	float: left;
+	padding-left: 10px;
+}
+
+section {
+	clear: both;
+}
+
+a {
+	text-decoration: none;
+	color: #7f7f7f;
+}
+
+a:hover {
+	color: #ea841a;
+	/*border-bottom: 2px solid #d43c17;*/
+}
+
+/*a:visited {
+	color: #7f7f7f;
+}*/
+
+a:visited:hover {
+	color: #ea841a;
+}
+
+h3 {
+	display: inline-block;
+	float: left;
+}
+
+.city {
+	display: inline-block;
+	padding-left: 10px;
+	padding-top: 4px;
+}
+
+p {
+	clear: both;
+}
+
+/************************
+want to have proficiencies list in 2 columns...how?
+************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
